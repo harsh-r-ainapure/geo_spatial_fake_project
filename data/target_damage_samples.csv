@@ -1,0 +1,704 @@
+image_name,event,shard_file,shard_row_idx,damage_combination,has_no_damage,has_damaged,has_destroyed
+train/images/socal-fire_00000106,socal-fire,xview2/data/train-00000-of-00017.parquet,0,Only Destroyed,0,0,1
+train/images/socal-fire_00001058,socal-fire,xview2/data/train-00000-of-00017.parquet,4,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000235,santa-rosa-wildfire,xview2/data/train-00000-of-00017.parquet,7,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000072,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,11,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000426,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,12,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000366,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,13,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000211,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,15,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000436,socal-fire,xview2/data/train-00000-of-00017.parquet,19,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000308,santa-rosa-wildfire,xview2/data/train-00000-of-00017.parquet,21,Only Destroyed,0,0,1
+train/images/socal-fire_00001261,socal-fire,xview2/data/train-00000-of-00017.parquet,23,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000341,socal-fire,xview2/data/train-00000-of-00017.parquet,31,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000054,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,33,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000039,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,35,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000351,santa-rosa-wildfire,xview2/data/train-00000-of-00017.parquet,38,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000603,socal-fire,xview2/data/train-00000-of-00017.parquet,39,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000340,midwest-flooding,xview2/data/train-00000-of-00017.parquet,47,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000329,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,52,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000332,socal-fire,xview2/data/train-00000-of-00017.parquet,55,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000176,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,61,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000039,santa-rosa-wildfire,xview2/data/train-00000-of-00017.parquet,63,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000369,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,65,Damaged + Destroyed,0,1,1
+train/images/midwest-flooding_00000391,midwest-flooding,xview2/data/train-00000-of-00017.parquet,66,Only Damaged,0,1,0
+train/images/hurricane-florence_00000414,hurricane-florence,xview2/data/train-00000-of-00017.parquet,72,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000400,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,75,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000090,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,82,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000391,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,83,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000045,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,90,Only Damaged,0,1,0
+train/images/socal-fire_00000606,socal-fire,xview2/data/train-00000-of-00017.parquet,96,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000190,santa-rosa-wildfire,xview2/data/train-00000-of-00017.parquet,97,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000151,hurricane-florence,xview2/data/train-00000-of-00017.parquet,100,Only Damaged,0,1,0
+train/images/socal-fire_00001268,socal-fire,xview2/data/train-00000-of-00017.parquet,103,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000450,hurricane-florence,xview2/data/train-00000-of-00017.parquet,106,Only Damaged,0,1,0
+train/images/hurricane-florence_00000500,hurricane-florence,xview2/data/train-00000-of-00017.parquet,116,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000281,hurricane-matthew,xview2/data/train-00000-of-00017.parquet,117,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000266,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,124,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000344,santa-rosa-wildfire,xview2/data/train-00000-of-00017.parquet,126,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001278,socal-fire,xview2/data/train-00000-of-00017.parquet,135,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000501,hurricane-florence,xview2/data/train-00000-of-00017.parquet,136,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000035,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,144,Only Damaged,0,1,0
+train/images/hurricane-florence_00000078,hurricane-florence,xview2/data/train-00000-of-00017.parquet,149,Only Damaged,0,1,0
+train/images/hurricane-florence_00000101,hurricane-florence,xview2/data/train-00000-of-00017.parquet,154,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000517,hurricane-harvey,xview2/data/train-00000-of-00017.parquet,156,Only Damaged,0,1,0
+train/images/palu-tsunami_00000100,palu-tsunami,xview2/data/train-00001-of-00017.parquet,7,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000272,hurricane-harvey,xview2/data/train-00001-of-00017.parquet,8,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000393,hurricane-harvey,xview2/data/train-00001-of-00017.parquet,11,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000484,hurricane-florence,xview2/data/train-00001-of-00017.parquet,13,Only Damaged,0,1,0
+train/images/hurricane-florence_00000259,hurricane-florence,xview2/data/train-00001-of-00017.parquet,17,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000104,hurricane-harvey,xview2/data/train-00001-of-00017.parquet,18,Only Damaged,0,1,0
+train/images/socal-fire_00000340,socal-fire,xview2/data/train-00001-of-00017.parquet,29,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000361,hurricane-harvey,xview2/data/train-00001-of-00017.parquet,38,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000341,hurricane-florence,xview2/data/train-00001-of-00017.parquet,44,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001185,socal-fire,xview2/data/train-00001-of-00017.parquet,52,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000521,socal-fire,xview2/data/train-00001-of-00017.parquet,53,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000279,socal-fire,xview2/data/train-00001-of-00017.parquet,60,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000098,santa-rosa-wildfire,xview2/data/train-00001-of-00017.parquet,66,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000779,socal-fire,xview2/data/train-00001-of-00017.parquet,70,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000380,hurricane-matthew,xview2/data/train-00001-of-00017.parquet,71,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000175,hurricane-matthew,xview2/data/train-00001-of-00017.parquet,77,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000116,hurricane-matthew,xview2/data/train-00001-of-00017.parquet,81,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000212,hurricane-matthew,xview2/data/train-00001-of-00017.parquet,83,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000246,santa-rosa-wildfire,xview2/data/train-00001-of-00017.parquet,86,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000128,hurricane-harvey,xview2/data/train-00001-of-00017.parquet,88,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000271,hurricane-matthew,xview2/data/train-00001-of-00017.parquet,110,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000136,hurricane-harvey,xview2/data/train-00001-of-00017.parquet,116,Only Damaged,0,1,0
+train/images/hurricane-florence_00000464,hurricane-florence,xview2/data/train-00001-of-00017.parquet,119,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000044,santa-rosa-wildfire,xview2/data/train-00001-of-00017.parquet,122,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000315,santa-rosa-wildfire,xview2/data/train-00001-of-00017.parquet,126,Only Destroyed,0,0,1
+train/images/socal-fire_00000348,socal-fire,xview2/data/train-00001-of-00017.parquet,135,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000454,hurricane-florence,xview2/data/train-00001-of-00017.parquet,140,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000333,santa-rosa-wildfire,xview2/data/train-00001-of-00017.parquet,141,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000010,midwest-flooding,xview2/data/train-00001-of-00017.parquet,142,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000523,hurricane-florence,xview2/data/train-00001-of-00017.parquet,143,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000118,santa-rosa-wildfire,xview2/data/train-00001-of-00017.parquet,146,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000154,hurricane-matthew,xview2/data/train-00001-of-00017.parquet,158,Damaged + Destroyed,0,1,1
+train/images/midwest-flooding_00000150,midwest-flooding,xview2/data/train-00001-of-00017.parquet,159,Only Damaged,0,1,0
+train/images/socal-fire_00001202,socal-fire,xview2/data/train-00001-of-00017.parquet,162,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000419,hurricane-florence,xview2/data/train-00001-of-00017.parquet,163,Only Damaged,0,1,0
+train/images/midwest-flooding_00000326,midwest-flooding,xview2/data/train-00002-of-00017.parquet,4,Only Damaged,0,1,0
+train/images/socal-fire_00001000,socal-fire,xview2/data/train-00002-of-00017.parquet,14,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000288,socal-fire,xview2/data/train-00002-of-00017.parquet,15,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000283,socal-fire,xview2/data/train-00002-of-00017.parquet,30,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000080,hurricane-florence,xview2/data/train-00002-of-00017.parquet,33,Only Damaged,0,1,0
+train/images/socal-fire_00000666,socal-fire,xview2/data/train-00002-of-00017.parquet,34,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000337,hurricane-harvey,xview2/data/train-00002-of-00017.parquet,38,Only Damaged,0,1,0
+train/images/socal-fire_00000301,socal-fire,xview2/data/train-00002-of-00017.parquet,41,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000005,midwest-flooding,xview2/data/train-00002-of-00017.parquet,42,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000431,hurricane-florence,xview2/data/train-00002-of-00017.parquet,47,Only Damaged,0,1,0
+train/images/socal-fire_00000369,socal-fire,xview2/data/train-00002-of-00017.parquet,53,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000268,santa-rosa-wildfire,xview2/data/train-00002-of-00017.parquet,54,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000040,hurricane-harvey,xview2/data/train-00002-of-00017.parquet,62,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000173,hurricane-matthew,xview2/data/train-00002-of-00017.parquet,66,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000223,santa-rosa-wildfire,xview2/data/train-00002-of-00017.parquet,71,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000316,hurricane-harvey,xview2/data/train-00002-of-00017.parquet,73,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000688,socal-fire,xview2/data/train-00002-of-00017.parquet,76,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000404,midwest-flooding,xview2/data/train-00002-of-00017.parquet,77,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000731,socal-fire,xview2/data/train-00002-of-00017.parquet,79,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000264,hurricane-matthew,xview2/data/train-00002-of-00017.parquet,82,Only Destroyed,0,0,1
+train/images/socal-fire_00000387,socal-fire,xview2/data/train-00002-of-00017.parquet,84,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001248,socal-fire,xview2/data/train-00002-of-00017.parquet,85,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000158,hurricane-matthew,xview2/data/train-00002-of-00017.parquet,93,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000206,hurricane-matthew,xview2/data/train-00002-of-00017.parquet,94,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001291,socal-fire,xview2/data/train-00002-of-00017.parquet,100,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000036,santa-rosa-wildfire,xview2/data/train-00002-of-00017.parquet,102,No Damage + Destroyed,1,0,1
+train/images/palu-tsunami_00000050,palu-tsunami,xview2/data/train-00002-of-00017.parquet,111,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000113,hurricane-harvey,xview2/data/train-00002-of-00017.parquet,124,Only Damaged,0,1,0
+train/images/socal-fire_00000466,socal-fire,xview2/data/train-00002-of-00017.parquet,125,Only Destroyed,0,0,1
+train/images/socal-fire_00000793,socal-fire,xview2/data/train-00002-of-00017.parquet,132,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000166,socal-fire,xview2/data/train-00002-of-00017.parquet,135,No Damage + Destroyed,1,0,1
+train/images/palu-tsunami_00000092,palu-tsunami,xview2/data/train-00002-of-00017.parquet,137,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000042,santa-rosa-wildfire,xview2/data/train-00002-of-00017.parquet,142,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000137,hurricane-harvey,xview2/data/train-00002-of-00017.parquet,148,Only Damaged,0,1,0
+train/images/hurricane-florence_00000149,hurricane-florence,xview2/data/train-00002-of-00017.parquet,150,Only Damaged,0,1,0
+train/images/hurricane-florence_00000266,hurricane-florence,xview2/data/train-00002-of-00017.parquet,157,Only Damaged,0,1,0
+train/images/midwest-flooding_00000303,midwest-flooding,xview2/data/train-00002-of-00017.parquet,164,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000573,socal-fire,xview2/data/train-00003-of-00017.parquet,7,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000360,socal-fire,xview2/data/train-00003-of-00017.parquet,14,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000340,santa-rosa-wildfire,xview2/data/train-00003-of-00017.parquet,17,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000144,hurricane-harvey,xview2/data/train-00003-of-00017.parquet,23,Only Damaged,0,1,0
+train/images/socal-fire_00000657,socal-fire,xview2/data/train-00003-of-00017.parquet,24,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001322,socal-fire,xview2/data/train-00003-of-00017.parquet,31,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000241,hurricane-harvey,xview2/data/train-00003-of-00017.parquet,39,Only Damaged,0,1,0
+train/images/hurricane-florence_00000401,hurricane-florence,xview2/data/train-00003-of-00017.parquet,40,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000088,hurricane-harvey,xview2/data/train-00003-of-00017.parquet,44,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000491,hurricane-harvey,xview2/data/train-00003-of-00017.parquet,46,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000321,santa-rosa-wildfire,xview2/data/train-00003-of-00017.parquet,53,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001047,socal-fire,xview2/data/train-00003-of-00017.parquet,54,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000222,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,59,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000078,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,65,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000063,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,67,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000254,santa-rosa-wildfire,xview2/data/train-00003-of-00017.parquet,70,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000126,hurricane-florence,xview2/data/train-00003-of-00017.parquet,76,Only Damaged,0,1,0
+train/images/socal-fire_00001113,socal-fire,xview2/data/train-00003-of-00017.parquet,82,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000004,santa-rosa-wildfire,xview2/data/train-00003-of-00017.parquet,83,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000358,socal-fire,xview2/data/train-00003-of-00017.parquet,89,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000226,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,93,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000154,socal-fire,xview2/data/train-00003-of-00017.parquet,97,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000202,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,98,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001397,socal-fire,xview2/data/train-00003-of-00017.parquet,99,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000009,santa-rosa-wildfire,xview2/data/train-00003-of-00017.parquet,104,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000231,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,112,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000398,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,119,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000102,hurricane-florence,xview2/data/train-00003-of-00017.parquet,124,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000291,santa-rosa-wildfire,xview2/data/train-00003-of-00017.parquet,126,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000183,hurricane-florence,xview2/data/train-00003-of-00017.parquet,127,Only Damaged,0,1,0
+train/images/palu-tsunami_00000007,palu-tsunami,xview2/data/train-00003-of-00017.parquet,128,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000810,socal-fire,xview2/data/train-00003-of-00017.parquet,130,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000462,hurricane-florence,xview2/data/train-00003-of-00017.parquet,138,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000232,hurricane-matthew,xview2/data/train-00003-of-00017.parquet,139,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000489,socal-fire,xview2/data/train-00003-of-00017.parquet,141,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000661,socal-fire,xview2/data/train-00003-of-00017.parquet,150,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000442,hurricane-florence,xview2/data/train-00003-of-00017.parquet,154,Only Damaged,0,1,0
+train/images/socal-fire_00000211,socal-fire,xview2/data/train-00004-of-00017.parquet,2,Only Destroyed,0,0,1
+train/images/midwest-flooding_00000028,midwest-flooding,xview2/data/train-00004-of-00017.parquet,3,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000298,santa-rosa-wildfire,xview2/data/train-00004-of-00017.parquet,7,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000407,hurricane-florence,xview2/data/train-00004-of-00017.parquet,10,Only Damaged,0,1,0
+train/images/midwest-flooding_00000330,midwest-flooding,xview2/data/train-00004-of-00017.parquet,19,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000492,hurricane-florence,xview2/data/train-00004-of-00017.parquet,21,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000196,santa-rosa-wildfire,xview2/data/train-00004-of-00017.parquet,25,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000411,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,28,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000126,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,36,Damaged + Destroyed,0,1,1
+train/images/midwest-flooding_00000157,midwest-flooding,xview2/data/train-00004-of-00017.parquet,37,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000041,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,41,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000338,santa-rosa-wildfire,xview2/data/train-00004-of-00017.parquet,42,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000513,hurricane-florence,xview2/data/train-00004-of-00017.parquet,43,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000072,santa-rosa-wildfire,xview2/data/train-00004-of-00017.parquet,47,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000320,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,52,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000312,hurricane-matthew,xview2/data/train-00004-of-00017.parquet,53,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000207,midwest-flooding,xview2/data/train-00004-of-00017.parquet,54,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000140,hurricane-florence,xview2/data/train-00004-of-00017.parquet,59,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000255,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,61,Only Damaged,0,1,0
+train/images/hurricane-florence_00000180,hurricane-florence,xview2/data/train-00004-of-00017.parquet,62,Only Damaged,0,1,0
+train/images/palu-tsunami_00000026,palu-tsunami,xview2/data/train-00004-of-00017.parquet,64,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000354,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,67,Only Damaged,0,1,0
+train/images/guatemala-volcano_00000025,guatemala-volcano,xview2/data/train-00004-of-00017.parquet,70,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000280,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,71,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000279,hurricane-matthew,xview2/data/train-00004-of-00017.parquet,74,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000346,santa-rosa-wildfire,xview2/data/train-00004-of-00017.parquet,77,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000305,hurricane-matthew,xview2/data/train-00004-of-00017.parquet,78,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000427,hurricane-florence,xview2/data/train-00004-of-00017.parquet,80,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000114,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,81,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000094,santa-rosa-wildfire,xview2/data/train-00004-of-00017.parquet,82,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000189,hurricane-florence,xview2/data/train-00004-of-00017.parquet,87,Only Damaged,0,1,0
+train/images/socal-fire_00000442,socal-fire,xview2/data/train-00004-of-00017.parquet,94,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000310,hurricane-florence,xview2/data/train-00004-of-00017.parquet,99,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000071,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,105,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000481,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,117,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000084,hurricane-matthew,xview2/data/train-00004-of-00017.parquet,118,Only Damaged,0,1,0
+train/images/socal-fire_00000938,socal-fire,xview2/data/train-00004-of-00017.parquet,123,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000319,hurricane-florence,xview2/data/train-00004-of-00017.parquet,124,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000312,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,130,Only Damaged,0,1,0
+train/images/socal-fire_00000434,socal-fire,xview2/data/train-00004-of-00017.parquet,132,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000399,hurricane-matthew,xview2/data/train-00004-of-00017.parquet,134,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000043,palu-tsunami,xview2/data/train-00004-of-00017.parquet,137,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000485,hurricane-florence,xview2/data/train-00004-of-00017.parquet,144,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000275,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,151,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000168,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,153,Only Damaged,0,1,0
+train/images/hurricane-florence_00000106,hurricane-florence,xview2/data/train-00004-of-00017.parquet,157,Only Damaged,0,1,0
+train/images/socal-fire_00000692,socal-fire,xview2/data/train-00004-of-00017.parquet,158,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000263,hurricane-florence,xview2/data/train-00004-of-00017.parquet,159,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000473,hurricane-harvey,xview2/data/train-00004-of-00017.parquet,164,Damaged + Destroyed,0,1,1
+train/images/midwest-flooding_00000301,midwest-flooding,xview2/data/train-00005-of-00017.parquet,8,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000146,hurricane-harvey,xview2/data/train-00005-of-00017.parquet,9,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000351,hurricane-harvey,xview2/data/train-00005-of-00017.parquet,16,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000192,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,17,Only Destroyed,0,0,1
+train/images/socal-fire_00000370,socal-fire,xview2/data/train-00005-of-00017.parquet,20,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000438,hurricane-florence,xview2/data/train-00005-of-00017.parquet,21,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000033,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,23,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000215,socal-fire,xview2/data/train-00005-of-00017.parquet,26,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000038,midwest-flooding,xview2/data/train-00005-of-00017.parquet,30,Only Damaged,0,1,0
+train/images/socal-fire_00001245,socal-fire,xview2/data/train-00005-of-00017.parquet,43,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000176,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,47,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000390,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,51,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000385,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,55,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000473,socal-fire,xview2/data/train-00005-of-00017.parquet,58,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000286,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,59,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000331,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,63,Only Destroyed,0,0,1
+train/images/hurricane-michael_00000144,hurricane-michael,xview2/data/train-00005-of-00017.parquet,65,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000159,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,68,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000209,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,75,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000429,socal-fire,xview2/data/train-00005-of-00017.parquet,76,Only Destroyed,0,0,1
+train/images/palu-tsunami_00000103,palu-tsunami,xview2/data/train-00005-of-00017.parquet,81,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000498,hurricane-florence,xview2/data/train-00005-of-00017.parquet,89,Only Damaged,0,1,0
+train/images/socal-fire_00000102,socal-fire,xview2/data/train-00005-of-00017.parquet,92,Only Destroyed,0,0,1
+train/images/socal-fire_00001013,socal-fire,xview2/data/train-00005-of-00017.parquet,97,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001285,socal-fire,xview2/data/train-00005-of-00017.parquet,99,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000363,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,100,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000006,palu-tsunami,xview2/data/train-00005-of-00017.parquet,102,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001386,socal-fire,xview2/data/train-00005-of-00017.parquet,104,Only Destroyed,0,0,1
+train/images/socal-fire_00000303,socal-fire,xview2/data/train-00005-of-00017.parquet,105,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000067,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,107,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000047,hurricane-harvey,xview2/data/train-00005-of-00017.parquet,110,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000116,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,113,Only Destroyed,0,0,1
+train/images/socal-fire_00000585,socal-fire,xview2/data/train-00005-of-00017.parquet,116,Only Destroyed,0,0,1
+train/images/socal-fire_00000399,socal-fire,xview2/data/train-00005-of-00017.parquet,117,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000207,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,121,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000196,hurricane-harvey,xview2/data/train-00005-of-00017.parquet,124,Only Damaged,0,1,0
+train/images/socal-fire_00000312,socal-fire,xview2/data/train-00005-of-00017.parquet,130,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000283,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,131,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000398,hurricane-harvey,xview2/data/train-00005-of-00017.parquet,138,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001312,socal-fire,xview2/data/train-00005-of-00017.parquet,139,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000824,socal-fire,xview2/data/train-00005-of-00017.parquet,141,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000192,hurricane-florence,xview2/data/train-00005-of-00017.parquet,147,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000109,hurricane-harvey,xview2/data/train-00005-of-00017.parquet,148,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000169,palu-tsunami,xview2/data/train-00005-of-00017.parquet,149,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000171,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,151,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000356,santa-rosa-wildfire,xview2/data/train-00005-of-00017.parquet,155,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000470,hurricane-florence,xview2/data/train-00005-of-00017.parquet,156,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000164,hurricane-matthew,xview2/data/train-00005-of-00017.parquet,158,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000522,socal-fire,xview2/data/train-00005-of-00017.parquet,163,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000265,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,0,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000088,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,1,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000022,hurricane-florence,xview2/data/train-00006-of-00017.parquet,2,Only Damaged,0,1,0
+train/images/hurricane-florence_00000536,hurricane-florence,xview2/data/train-00006-of-00017.parquet,6,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000008,hurricane-matthew,xview2/data/train-00006-of-00017.parquet,7,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000365,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,9,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000162,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,10,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000058,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,13,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000203,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,14,Only Damaged,0,1,0
+train/images/socal-fire_00001121,socal-fire,xview2/data/train-00006-of-00017.parquet,16,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000137,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,30,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000069,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,31,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000324,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,34,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000142,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,36,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000145,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,41,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000264,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,51,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000065,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,54,No Damage + Destroyed,1,0,1
+train/images/palu-tsunami_00000064,palu-tsunami,xview2/data/train-00006-of-00017.parquet,59,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000119,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,60,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000337,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,68,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000168,midwest-flooding,xview2/data/train-00006-of-00017.parquet,69,Only Destroyed,0,0,1
+train/images/hurricane-michael_00000003,hurricane-michael,xview2/data/train-00006-of-00017.parquet,72,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000435,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,76,Only Damaged,0,1,0
+train/images/socal-fire_00000116,socal-fire,xview2/data/train-00006-of-00017.parquet,79,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000382,hurricane-florence,xview2/data/train-00006-of-00017.parquet,82,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000111,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,98,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000433,hurricane-florence,xview2/data/train-00006-of-00017.parquet,102,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000335,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,104,Only Damaged,0,1,0
+train/images/palu-tsunami_00000097,palu-tsunami,xview2/data/train-00006-of-00017.parquet,105,No Damage + Destroyed,1,0,1
+train/images/hurricane-michael_00000010,hurricane-michael,xview2/data/train-00006-of-00017.parquet,108,Only Damaged,0,1,0
+train/images/hurricane-florence_00000252,hurricane-florence,xview2/data/train-00006-of-00017.parquet,112,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000482,hurricane-harvey,xview2/data/train-00006-of-00017.parquet,114,Only Damaged,0,1,0
+train/images/midwest-flooding_00000290,midwest-flooding,xview2/data/train-00006-of-00017.parquet,115,Only Destroyed,0,0,1
+train/images/socal-fire_00000090,socal-fire,xview2/data/train-00006-of-00017.parquet,120,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000069,santa-rosa-wildfire,xview2/data/train-00006-of-00017.parquet,123,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000923,socal-fire,xview2/data/train-00006-of-00017.parquet,125,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000174,hurricane-matthew,xview2/data/train-00006-of-00017.parquet,128,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000469,socal-fire,xview2/data/train-00006-of-00017.parquet,132,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000065,hurricane-florence,xview2/data/train-00006-of-00017.parquet,145,Only Damaged,0,1,0
+train/images/socal-fire_00000651,socal-fire,xview2/data/train-00006-of-00017.parquet,150,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000445,hurricane-florence,xview2/data/train-00006-of-00017.parquet,154,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000303,hurricane-matthew,xview2/data/train-00006-of-00017.parquet,157,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000119,hurricane-matthew,xview2/data/train-00006-of-00017.parquet,158,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000243,hurricane-harvey,xview2/data/train-00007-of-00017.parquet,6,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000499,hurricane-harvey,xview2/data/train-00007-of-00017.parquet,11,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000082,hurricane-harvey,xview2/data/train-00007-of-00017.parquet,29,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000035,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,36,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000314,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,41,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000216,hurricane-florence,xview2/data/train-00007-of-00017.parquet,46,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000287,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,50,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000598,socal-fire,xview2/data/train-00007-of-00017.parquet,60,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000457,hurricane-florence,xview2/data/train-00007-of-00017.parquet,66,Only Damaged,0,1,0
+train/images/hurricane-michael_00000017,hurricane-michael,xview2/data/train-00007-of-00017.parquet,69,Damaged + Destroyed,0,1,1
+train/images/guatemala-volcano_00000002,guatemala-volcano,xview2/data/train-00007-of-00017.parquet,70,Only Destroyed,0,0,1
+train/images/palu-tsunami_00000030,palu-tsunami,xview2/data/train-00007-of-00017.parquet,71,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000376,hurricane-matthew,xview2/data/train-00007-of-00017.parquet,72,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000133,palu-tsunami,xview2/data/train-00007-of-00017.parquet,73,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000082,hurricane-matthew,xview2/data/train-00007-of-00017.parquet,81,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000200,hurricane-harvey,xview2/data/train-00007-of-00017.parquet,89,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000132,hurricane-harvey,xview2/data/train-00007-of-00017.parquet,93,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000429,hurricane-harvey,xview2/data/train-00007-of-00017.parquet,95,Only Damaged,0,1,0
+train/images/socal-fire_00000671,socal-fire,xview2/data/train-00007-of-00017.parquet,111,Only Destroyed,0,0,1
+train/images/socal-fire_00001298,socal-fire,xview2/data/train-00007-of-00017.parquet,113,No Damage + Destroyed,1,0,1
+train/images/guatemala-volcano_00000001,guatemala-volcano,xview2/data/train-00007-of-00017.parquet,115,Only Damaged,0,1,0
+train/images/socal-fire_00000081,socal-fire,xview2/data/train-00007-of-00017.parquet,118,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000026,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,122,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000187,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,123,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000244,hurricane-matthew,xview2/data/train-00007-of-00017.parquet,130,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000805,socal-fire,xview2/data/train-00007-of-00017.parquet,132,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000023,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,136,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000280,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,139,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000379,hurricane-matthew,xview2/data/train-00007-of-00017.parquet,146,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000088,hurricane-florence,xview2/data/train-00007-of-00017.parquet,148,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000040,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,151,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000245,socal-fire,xview2/data/train-00007-of-00017.parquet,152,Only Destroyed,0,0,1
+train/images/socal-fire_00001237,socal-fire,xview2/data/train-00007-of-00017.parquet,153,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000267,santa-rosa-wildfire,xview2/data/train-00007-of-00017.parquet,156,No Damage + Destroyed,1,0,1
+train/images/palu-tsunami_00000016,palu-tsunami,xview2/data/train-00007-of-00017.parquet,160,Only Destroyed,0,0,1
+train/images/palu-tsunami_00000188,palu-tsunami,xview2/data/train-00008-of-00017.parquet,0,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000051,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,3,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000132,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,4,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000180,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,5,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000323,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,7,Only Damaged,0,1,0
+train/images/hurricane-florence_00000526,hurricane-florence,xview2/data/train-00008-of-00017.parquet,16,Only Damaged,0,1,0
+train/images/socal-fire_00000228,socal-fire,xview2/data/train-00008-of-00017.parquet,19,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000819,socal-fire,xview2/data/train-00008-of-00017.parquet,27,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000408,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,29,Damaged + Destroyed,0,1,1
+train/images/hurricane-michael_00000004,hurricane-michael,xview2/data/train-00008-of-00017.parquet,32,Damaged + Destroyed,0,1,1
+train/images/midwest-flooding_00000435,midwest-flooding,xview2/data/train-00008-of-00017.parquet,33,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000030,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,36,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000165,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,41,Only Damaged,0,1,0
+train/images/midwest-flooding_00000140,midwest-flooding,xview2/data/train-00008-of-00017.parquet,42,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000268,midwest-flooding,xview2/data/train-00008-of-00017.parquet,43,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000107,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,48,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000306,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,49,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000285,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,51,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000469,hurricane-florence,xview2/data/train-00008-of-00017.parquet,57,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000126,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,60,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000084,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,63,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000111,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,67,Only Damaged,0,1,0
+train/images/socal-fire_00001085,socal-fire,xview2/data/train-00008-of-00017.parquet,69,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000111,hurricane-florence,xview2/data/train-00008-of-00017.parquet,71,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000178,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,72,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000381,hurricane-florence,xview2/data/train-00008-of-00017.parquet,77,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000258,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,78,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000310,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,84,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000252,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,87,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000026,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,88,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000372,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,97,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000401,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,99,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000763,socal-fire,xview2/data/train-00008-of-00017.parquet,101,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000097,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,103,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000652,socal-fire,xview2/data/train-00008-of-00017.parquet,109,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000497,hurricane-florence,xview2/data/train-00008-of-00017.parquet,110,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000257,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,117,Only Damaged,0,1,0
+train/images/socal-fire_00001086,socal-fire,xview2/data/train-00008-of-00017.parquet,121,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000055,hurricane-harvey,xview2/data/train-00008-of-00017.parquet,141,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000328,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,143,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000909,socal-fire,xview2/data/train-00008-of-00017.parquet,146,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000334,hurricane-matthew,xview2/data/train-00008-of-00017.parquet,150,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000270,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,154,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000047,santa-rosa-wildfire,xview2/data/train-00008-of-00017.parquet,156,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001088,socal-fire,xview2/data/train-00008-of-00017.parquet,163,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000287,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,2,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000204,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,11,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000314,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,13,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000284,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,15,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000020,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,17,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000327,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,20,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000345,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,22,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000065,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,23,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000158,hurricane-florence,xview2/data/train-00009-of-00017.parquet,33,Only Damaged,0,1,0
+train/images/socal-fire_00000346,socal-fire,xview2/data/train-00009-of-00017.parquet,38,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000100,hurricane-florence,xview2/data/train-00009-of-00017.parquet,40,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000031,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,44,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000212,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,45,Only Damaged,0,1,0
+train/images/palu-tsunami_00000040,palu-tsunami,xview2/data/train-00009-of-00017.parquet,49,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000817,socal-fire,xview2/data/train-00009-of-00017.parquet,51,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000110,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,53,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000152,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,54,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000073,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,61,No Damage + Destroyed,1,0,1
+train/images/hurricane-michael_00000013,hurricane-michael,xview2/data/train-00009-of-00017.parquet,64,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000255,hurricane-florence,xview2/data/train-00009-of-00017.parquet,66,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000183,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,67,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000228,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,75,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000252,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,76,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000607,socal-fire,xview2/data/train-00009-of-00017.parquet,78,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000221,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,87,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000423,hurricane-florence,xview2/data/train-00009-of-00017.parquet,90,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000151,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,94,Only Damaged,0,1,0
+train/images/socal-fire_00000962,socal-fire,xview2/data/train-00009-of-00017.parquet,98,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000188,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,102,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000321,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,104,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000123,hurricane-florence,xview2/data/train-00009-of-00017.parquet,107,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000521,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,108,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000222,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,112,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000332,hurricane-harvey,xview2/data/train-00009-of-00017.parquet,114,Only Damaged,0,1,0
+train/images/hurricane-florence_00000049,hurricane-florence,xview2/data/train-00009-of-00017.parquet,121,Only Damaged,0,1,0
+train/images/hurricane-michael_00000088,hurricane-michael,xview2/data/train-00009-of-00017.parquet,123,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000329,hurricane-florence,xview2/data/train-00009-of-00017.parquet,131,Only Damaged,0,1,0
+train/images/hurricane-florence_00000395,hurricane-florence,xview2/data/train-00009-of-00017.parquet,133,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000354,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,135,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000124,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,137,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000486,hurricane-florence,xview2/data/train-00009-of-00017.parquet,140,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000168,hurricane-matthew,xview2/data/train-00009-of-00017.parquet,148,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000075,santa-rosa-wildfire,xview2/data/train-00009-of-00017.parquet,150,Only Destroyed,0,0,1
+train/images/socal-fire_00000862,socal-fire,xview2/data/train-00009-of-00017.parquet,155,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000296,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,0,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000300,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,1,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000891,socal-fire,xview2/data/train-00010-of-00017.parquet,5,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000178,hurricane-florence,xview2/data/train-00010-of-00017.parquet,13,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000117,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,15,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000293,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,16,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000210,hurricane-florence,xview2/data/train-00010-of-00017.parquet,18,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000520,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,19,Only Damaged,0,1,0
+train/images/hurricane-florence_00000072,hurricane-florence,xview2/data/train-00010-of-00017.parquet,21,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000191,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,22,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000437,hurricane-florence,xview2/data/train-00010-of-00017.parquet,28,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000355,hurricane-matthew,xview2/data/train-00010-of-00017.parquet,33,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000070,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,42,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000043,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,44,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000275,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,47,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000133,hurricane-matthew,xview2/data/train-00010-of-00017.parquet,50,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001120,socal-fire,xview2/data/train-00010-of-00017.parquet,58,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000070,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,64,No Damage + Destroyed,1,0,1
+train/images/palu-tsunami_00000168,palu-tsunami,xview2/data/train-00010-of-00017.parquet,65,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000406,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,66,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000234,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,68,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000083,hurricane-florence,xview2/data/train-00010-of-00017.parquet,69,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000174,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,72,Only Damaged,0,1,0
+train/images/hurricane-florence_00000148,hurricane-florence,xview2/data/train-00010-of-00017.parquet,85,Only Damaged,0,1,0
+train/images/hurricane-florence_00000475,hurricane-florence,xview2/data/train-00010-of-00017.parquet,86,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000453,hurricane-florence,xview2/data/train-00010-of-00017.parquet,89,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000152,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,91,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000241,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,95,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000224,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,98,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000265,socal-fire,xview2/data/train-00010-of-00017.parquet,107,Only Destroyed,0,0,1
+train/images/midwest-flooding_00000351,midwest-flooding,xview2/data/train-00010-of-00017.parquet,108,Only Damaged,0,1,0
+train/images/socal-fire_00000715,socal-fire,xview2/data/train-00010-of-00017.parquet,109,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001052,socal-fire,xview2/data/train-00010-of-00017.parquet,117,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000252,midwest-flooding,xview2/data/train-00010-of-00017.parquet,123,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000436,midwest-flooding,xview2/data/train-00010-of-00017.parquet,125,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000268,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,127,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000245,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,130,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000132,hurricane-florence,xview2/data/train-00010-of-00017.parquet,132,Only Damaged,0,1,0
+train/images/socal-fire_00000389,socal-fire,xview2/data/train-00010-of-00017.parquet,135,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000329,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,137,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000149,hurricane-matthew,xview2/data/train-00010-of-00017.parquet,141,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000271,hurricane-harvey,xview2/data/train-00010-of-00017.parquet,146,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000130,santa-rosa-wildfire,xview2/data/train-00010-of-00017.parquet,156,Only Destroyed,0,0,1
+train/images/socal-fire_00000792,socal-fire,xview2/data/train-00010-of-00017.parquet,157,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000238,hurricane-matthew,xview2/data/train-00010-of-00017.parquet,159,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000493,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,3,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000166,hurricane-florence,xview2/data/train-00011-of-00017.parquet,6,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000081,santa-rosa-wildfire,xview2/data/train-00011-of-00017.parquet,7,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000316,hurricane-matthew,xview2/data/train-00011-of-00017.parquet,8,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000886,socal-fire,xview2/data/train-00011-of-00017.parquet,9,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000289,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,14,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000070,hurricane-florence,xview2/data/train-00011-of-00017.parquet,16,Only Damaged,0,1,0
+train/images/palu-tsunami_00000132,palu-tsunami,xview2/data/train-00011-of-00017.parquet,20,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000343,socal-fire,xview2/data/train-00011-of-00017.parquet,21,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000318,santa-rosa-wildfire,xview2/data/train-00011-of-00017.parquet,30,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000018,hurricane-florence,xview2/data/train-00011-of-00017.parquet,31,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000179,hurricane-matthew,xview2/data/train-00011-of-00017.parquet,33,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000506,hurricane-florence,xview2/data/train-00011-of-00017.parquet,36,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000123,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,49,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000913,socal-fire,xview2/data/train-00011-of-00017.parquet,52,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000511,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,56,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000366,hurricane-florence,xview2/data/train-00011-of-00017.parquet,62,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000384,hurricane-matthew,xview2/data/train-00011-of-00017.parquet,63,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000333,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,66,Only Damaged,0,1,0
+train/images/socal-fire_00000095,socal-fire,xview2/data/train-00011-of-00017.parquet,73,Only Damaged,0,1,0
+train/images/hurricane-michael_00000530,hurricane-michael,xview2/data/train-00011-of-00017.parquet,74,Only Damaged,0,1,0
+train/images/socal-fire_00001035,socal-fire,xview2/data/train-00011-of-00017.parquet,77,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000631,socal-fire,xview2/data/train-00011-of-00017.parquet,83,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000406,midwest-flooding,xview2/data/train-00011-of-00017.parquet,90,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000470,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,92,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000087,palu-tsunami,xview2/data/train-00011-of-00017.parquet,99,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000234,hurricane-matthew,xview2/data/train-00011-of-00017.parquet,106,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000251,santa-rosa-wildfire,xview2/data/train-00011-of-00017.parquet,108,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000433,socal-fire,xview2/data/train-00011-of-00017.parquet,109,Only Destroyed,0,0,1
+train/images/socal-fire_00000472,socal-fire,xview2/data/train-00011-of-00017.parquet,116,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000263,hurricane-matthew,xview2/data/train-00011-of-00017.parquet,122,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000060,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,128,Only Damaged,0,1,0
+train/images/socal-fire_00000904,socal-fire,xview2/data/train-00011-of-00017.parquet,131,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000043,hurricane-florence,xview2/data/train-00011-of-00017.parquet,132,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000392,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,133,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000392,hurricane-matthew,xview2/data/train-00011-of-00017.parquet,136,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000358,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,148,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000003,palu-tsunami,xview2/data/train-00011-of-00017.parquet,150,Only Damaged,0,1,0
+train/images/palu-tsunami_00000110,palu-tsunami,xview2/data/train-00011-of-00017.parquet,153,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000277,hurricane-harvey,xview2/data/train-00011-of-00017.parquet,157,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000996,socal-fire,xview2/data/train-00012-of-00017.parquet,2,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000282,hurricane-florence,xview2/data/train-00012-of-00017.parquet,6,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000163,hurricane-florence,xview2/data/train-00012-of-00017.parquet,7,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000017,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,10,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000249,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,14,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000394,hurricane-florence,xview2/data/train-00012-of-00017.parquet,16,Only Damaged,0,1,0
+train/images/socal-fire_00001165,socal-fire,xview2/data/train-00012-of-00017.parquet,23,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000093,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,24,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000361,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,25,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000164,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,29,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000274,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,32,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000114,hurricane-florence,xview2/data/train-00012-of-00017.parquet,35,Only Damaged,0,1,0
+train/images/socal-fire_00000940,socal-fire,xview2/data/train-00012-of-00017.parquet,37,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001270,socal-fire,xview2/data/train-00012-of-00017.parquet,38,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000496,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,39,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000299,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,40,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000332,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,42,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000428,hurricane-florence,xview2/data/train-00012-of-00017.parquet,46,Only Damaged,0,1,0
+train/images/midwest-flooding_00000399,midwest-flooding,xview2/data/train-00012-of-00017.parquet,48,Only Damaged,0,1,0
+train/images/midwest-flooding_00000012,midwest-flooding,xview2/data/train-00012-of-00017.parquet,59,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000331,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,60,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000183,socal-fire,xview2/data/train-00012-of-00017.parquet,62,Damaged + Destroyed,0,1,1
+train/images/palu-tsunami_00000191,palu-tsunami,xview2/data/train-00012-of-00017.parquet,63,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000151,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,66,Only Destroyed,0,0,1
+train/images/socal-fire_00000966,socal-fire,xview2/data/train-00012-of-00017.parquet,68,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000091,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,77,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000197,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,81,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000219,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,82,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000024,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,90,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000419,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,91,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000158,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,100,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000162,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,101,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000221,socal-fire,xview2/data/train-00012-of-00017.parquet,106,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000157,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,117,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000229,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,121,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000336,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,122,Only Destroyed,0,0,1
+train/images/socal-fire_00001385,socal-fire,xview2/data/train-00012-of-00017.parquet,123,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000019,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,128,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000099,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,133,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000507,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,136,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000130,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,137,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001078,socal-fire,xview2/data/train-00012-of-00017.parquet,140,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000500,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,144,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000261,hurricane-harvey,xview2/data/train-00012-of-00017.parquet,145,Only Damaged,0,1,0
+train/images/socal-fire_00000686,socal-fire,xview2/data/train-00012-of-00017.parquet,151,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000322,hurricane-matthew,xview2/data/train-00012-of-00017.parquet,153,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000078,santa-rosa-wildfire,xview2/data/train-00012-of-00017.parquet,159,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000481,hurricane-florence,xview2/data/train-00012-of-00017.parquet,160,Only Damaged,0,1,0
+train/images/socal-fire_00000874,socal-fire,xview2/data/train-00012-of-00017.parquet,163,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001092,socal-fire,xview2/data/train-00013-of-00017.parquet,0,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000346,midwest-flooding,xview2/data/train-00013-of-00017.parquet,8,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000368,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,10,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000153,hurricane-florence,xview2/data/train-00013-of-00017.parquet,11,Only Damaged,0,1,0
+train/images/hurricane-florence_00000219,hurricane-florence,xview2/data/train-00013-of-00017.parquet,23,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000226,santa-rosa-wildfire,xview2/data/train-00013-of-00017.parquet,25,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000129,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,29,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000205,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,41,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000233,santa-rosa-wildfire,xview2/data/train-00013-of-00017.parquet,42,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000270,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,45,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000472,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,46,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000233,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,56,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000077,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,61,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000147,hurricane-florence,xview2/data/train-00013-of-00017.parquet,62,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000188,hurricane-florence,xview2/data/train-00013-of-00017.parquet,65,Only Damaged,0,1,0
+train/images/socal-fire_00000987,socal-fire,xview2/data/train-00013-of-00017.parquet,67,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000120,hurricane-florence,xview2/data/train-00013-of-00017.parquet,70,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000103,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,72,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000437,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,75,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000269,hurricane-florence,xview2/data/train-00013-of-00017.parquet,76,Only Damaged,0,1,0
+train/images/socal-fire_00000430,socal-fire,xview2/data/train-00013-of-00017.parquet,80,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000072,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,88,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000145,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,97,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000190,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,100,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000237,santa-rosa-wildfire,xview2/data/train-00013-of-00017.parquet,103,No Damage + Destroyed,1,0,1
+train/images/guatemala-volcano_00000010,guatemala-volcano,xview2/data/train-00013-of-00017.parquet,112,Only Destroyed,0,0,1
+train/images/socal-fire_00001159,socal-fire,xview2/data/train-00013-of-00017.parquet,117,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000226,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,119,Only Damaged,0,1,0
+train/images/socal-fire_00000788,socal-fire,xview2/data/train-00013-of-00017.parquet,120,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000387,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,123,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000105,santa-rosa-wildfire,xview2/data/train-00013-of-00017.parquet,126,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000193,socal-fire,xview2/data/train-00013-of-00017.parquet,130,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000081,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,132,Only Damaged,0,1,0
+train/images/hurricane-michael_00000393,hurricane-michael,xview2/data/train-00013-of-00017.parquet,143,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000138,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,148,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000275,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,149,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000510,hurricane-florence,xview2/data/train-00013-of-00017.parquet,150,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000172,hurricane-matthew,xview2/data/train-00013-of-00017.parquet,151,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000100,hurricane-harvey,xview2/data/train-00013-of-00017.parquet,155,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000531,socal-fire,xview2/data/train-00013-of-00017.parquet,162,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000503,hurricane-florence,xview2/data/train-00014-of-00017.parquet,1,Only Damaged,0,1,0
+train/images/midwest-flooding_00000317,midwest-flooding,xview2/data/train-00014-of-00017.parquet,4,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000051,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,12,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000140,santa-rosa-wildfire,xview2/data/train-00014-of-00017.parquet,14,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000514,hurricane-florence,xview2/data/train-00014-of-00017.parquet,15,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000501,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,28,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000253,santa-rosa-wildfire,xview2/data/train-00014-of-00017.parquet,29,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000136,hurricane-florence,xview2/data/train-00014-of-00017.parquet,36,Only Damaged,0,1,0
+train/images/hurricane-florence_00000436,hurricane-florence,xview2/data/train-00014-of-00017.parquet,40,Only Damaged,0,1,0
+train/images/hurricane-florence_00000537,hurricane-florence,xview2/data/train-00014-of-00017.parquet,48,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000139,hurricane-florence,xview2/data/train-00014-of-00017.parquet,50,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000034,santa-rosa-wildfire,xview2/data/train-00014-of-00017.parquet,51,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000146,hurricane-florence,xview2/data/train-00014-of-00017.parquet,52,Only Damaged,0,1,0
+train/images/socal-fire_00001389,socal-fire,xview2/data/train-00014-of-00017.parquet,56,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000221,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,59,Only Destroyed,0,0,1
+train/images/socal-fire_00000771,socal-fire,xview2/data/train-00014-of-00017.parquet,76,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000493,hurricane-florence,xview2/data/train-00014-of-00017.parquet,77,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000251,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,79,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000092,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,83,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000235,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,86,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000205,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,90,Only Damaged,0,1,0
+train/images/socal-fire_00000821,socal-fire,xview2/data/train-00014-of-00017.parquet,92,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000060,santa-rosa-wildfire,xview2/data/train-00014-of-00017.parquet,94,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000410,hurricane-florence,xview2/data/train-00014-of-00017.parquet,97,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000427,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,100,Damaged + Destroyed,0,1,1
+train/images/midwest-flooding_00000139,midwest-flooding,xview2/data/train-00014-of-00017.parquet,109,Only Destroyed,0,0,1
+train/images/socal-fire_00000420,socal-fire,xview2/data/train-00014-of-00017.parquet,111,Only Destroyed,0,0,1
+train/images/socal-fire_00000516,socal-fire,xview2/data/train-00014-of-00017.parquet,127,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000015,santa-rosa-wildfire,xview2/data/train-00014-of-00017.parquet,131,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000167,hurricane-matthew,xview2/data/train-00014-of-00017.parquet,132,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000341,hurricane-matthew,xview2/data/train-00014-of-00017.parquet,133,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00001244,socal-fire,xview2/data/train-00014-of-00017.parquet,134,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000353,santa-rosa-wildfire,xview2/data/train-00014-of-00017.parquet,152,Only Destroyed,0,0,1
+train/images/palu-tsunami_00000119,palu-tsunami,xview2/data/train-00014-of-00017.parquet,157,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000471,hurricane-harvey,xview2/data/train-00014-of-00017.parquet,159,Only Damaged,0,1,0
+train/images/socal-fire_00000785,socal-fire,xview2/data/train-00015-of-00017.parquet,2,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000878,socal-fire,xview2/data/train-00015-of-00017.parquet,4,Only Destroyed,0,0,1
+train/images/hurricane-florence_00000390,hurricane-florence,xview2/data/train-00015-of-00017.parquet,5,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000315,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,10,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000291,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,13,Only Destroyed,0,0,1
+train/images/socal-fire_00000204,socal-fire,xview2/data/train-00015-of-00017.parquet,14,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000388,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,17,Only Damaged,0,1,0
+train/images/hurricane-florence_00000504,hurricane-florence,xview2/data/train-00015-of-00017.parquet,18,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000317,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,21,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000170,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,22,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000299,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,24,Only Damaged,0,1,0
+train/images/hurricane-florence_00000482,hurricane-florence,xview2/data/train-00015-of-00017.parquet,26,Only Damaged,0,1,0
+train/images/midwest-flooding_00000120,midwest-flooding,xview2/data/train-00015-of-00017.parquet,28,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000271,santa-rosa-wildfire,xview2/data/train-00015-of-00017.parquet,37,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000049,santa-rosa-wildfire,xview2/data/train-00015-of-00017.parquet,42,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000300,santa-rosa-wildfire,xview2/data/train-00015-of-00017.parquet,43,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000001,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,47,Damaged + Destroyed,0,1,1
+train/images/hurricane-matthew_00000104,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,59,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000461,hurricane-florence,xview2/data/train-00015-of-00017.parquet,60,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000241,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,65,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000154,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,68,Only Damaged,0,1,0
+train/images/midwest-flooding_00000242,midwest-flooding,xview2/data/train-00015-of-00017.parquet,70,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000251,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,73,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000907,socal-fire,xview2/data/train-00015-of-00017.parquet,95,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000538,hurricane-florence,xview2/data/train-00015-of-00017.parquet,96,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000301,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,103,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000094,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,128,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000141,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,129,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000388,hurricane-florence,xview2/data/train-00015-of-00017.parquet,131,Only Damaged,0,1,0
+train/images/socal-fire_00000468,socal-fire,xview2/data/train-00015-of-00017.parquet,132,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000506,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,136,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000000,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,138,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000347,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,140,Damaged + Destroyed,0,1,1
+train/images/hurricane-michael_00000122,hurricane-michael,xview2/data/train-00015-of-00017.parquet,142,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000330,santa-rosa-wildfire,xview2/data/train-00015-of-00017.parquet,145,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000156,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,148,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000462,socal-fire,xview2/data/train-00015-of-00017.parquet,149,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000269,hurricane-harvey,xview2/data/train-00015-of-00017.parquet,154,Only Damaged,0,1,0
+train/images/socal-fire_00001176,socal-fire,xview2/data/train-00015-of-00017.parquet,158,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000200,hurricane-matthew,xview2/data/train-00015-of-00017.parquet,159,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000097,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,0,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000476,hurricane-florence,xview2/data/train-00016-of-00017.parquet,4,Only Damaged,0,1,0
+train/images/socal-fire_00000302,socal-fire,xview2/data/train-00016-of-00017.parquet,20,Only Destroyed,0,0,1
+train/images/palu-tsunami_00000187,palu-tsunami,xview2/data/train-00016-of-00017.parquet,22,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001333,socal-fire,xview2/data/train-00016-of-00017.parquet,23,No Damage + Destroyed,1,0,1
+train/images/midwest-flooding_00000081,midwest-flooding,xview2/data/train-00016-of-00017.parquet,26,Only Damaged,0,1,0
+train/images/socal-fire_00000510,socal-fire,xview2/data/train-00016-of-00017.parquet,31,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000137,hurricane-matthew,xview2/data/train-00016-of-00017.parquet,32,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000496,hurricane-florence,xview2/data/train-00016-of-00017.parquet,35,Only Damaged,0,1,0
+train/images/hurricane-matthew_00000155,hurricane-matthew,xview2/data/train-00016-of-00017.parquet,38,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000232,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,40,Only Destroyed,0,0,1
+train/images/santa-rosa-wildfire_00000341,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,41,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00001135,socal-fire,xview2/data/train-00016-of-00017.parquet,42,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000122,hurricane-florence,xview2/data/train-00016-of-00017.parquet,43,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000502,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,52,Only Damaged,0,1,0
+train/images/socal-fire_00000220,socal-fire,xview2/data/train-00016-of-00017.parquet,69,No Damage + Destroyed,1,0,1
+train/images/hurricane-harvey_00000325,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,96,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000208,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,100,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000268,hurricane-matthew,xview2/data/train-00016-of-00017.parquet,107,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000297,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,110,Damaged + Destroyed,0,1,1
+train/images/hurricane-florence_00000369,hurricane-florence,xview2/data/train-00016-of-00017.parquet,113,Only Damaged,0,1,0
+train/images/hurricane-harvey_00000091,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,114,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000463,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,117,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000148,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,120,No Damage + Destroyed,1,0,1
+train/images/socal-fire_00000367,socal-fire,xview2/data/train-00016-of-00017.parquet,124,Only Destroyed,0,0,1
+train/images/socal-fire_00000174,socal-fire,xview2/data/train-00016-of-00017.parquet,126,No Damage + Destroyed,1,0,1
+train/images/santa-rosa-wildfire_00000134,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,128,No Damage + Destroyed,1,0,1
+train/images/hurricane-matthew_00000213,hurricane-matthew,xview2/data/train-00016-of-00017.parquet,132,Damaged + Destroyed,0,1,1
+train/images/santa-rosa-wildfire_00000018,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,134,Only Destroyed,0,0,1
+train/images/hurricane-michael_00000024,hurricane-michael,xview2/data/train-00016-of-00017.parquet,140,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000389,hurricane-florence,xview2/data/train-00016-of-00017.parquet,144,Only Damaged,0,1,0
+train/images/santa-rosa-wildfire_00000325,santa-rosa-wildfire,xview2/data/train-00016-of-00017.parquet,145,Only Destroyed,0,0,1
+train/images/hurricane-harvey_00000462,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,147,Damaged + Destroyed,0,1,1
+train/images/socal-fire_00000868,socal-fire,xview2/data/train-00016-of-00017.parquet,155,No Damage + Destroyed,1,0,1
+train/images/hurricane-florence_00000508,hurricane-florence,xview2/data/train-00016-of-00017.parquet,156,Damaged + Destroyed,0,1,1
+train/images/hurricane-harvey_00000309,hurricane-harvey,xview2/data/train-00016-of-00017.parquet,157,Only Destroyed,0,0,1
+train/images/hurricane-matthew_00000208,hurricane-matthew,xview2/data/train-00016-of-00017.parquet,161,Only Destroyed,0,0,1
+

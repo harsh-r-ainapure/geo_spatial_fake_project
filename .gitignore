@@ -1,0 +1,52 @@
+# =========================
+# Datasets
+# =========================
+xview2/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Model checkpoints
+# =========================
+model/checkpoints/
+model/checkpoints_event_disjoint/
+
+*.keras
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# =========================
+# Generated model results
+# =========================
+model/misclassification_results/
+model/error_audit/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/

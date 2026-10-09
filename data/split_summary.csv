@@ -1,0 +1,5 @@
+category,split,scenes,scenes_pct,total_crops,crops_pct,class_0_crops,class_0_pct,class_1_crops,class_1_pct,class_2_crops,class_2_pct
+Overall,Train,1086,70.16,4298,71.03,1494,34.76,2148,49.98,656,15.26
+Overall,Val,232,14.99,857,14.16,364,42.47,374,43.64,119,13.89
+Overall,Test,230,14.86,896,14.81,313,34.93,448,50.0,135,15.07
+
